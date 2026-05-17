@@ -1,11 +1,11 @@
-sentence-transformers
-langchain
-langchain-community
-langchain-huggingface
-gradio
-langchain-qdrant
-qdrant-client>=1.7.0
+# ── CORE SERVICES & API ────────────────────────────
 fastapi
 uvicorn
 groq
 python-dotenv
+
+# ── VECTOR DB & SEMANTIC RETRIEVAL ──────────────────
+qdrant-client>=1.7.0
+langchain-qdrant
+langchain-huggingface
+sentence-transformers
