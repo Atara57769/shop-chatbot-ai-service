@@ -1,0 +1,11 @@
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+gradio
+langchain-qdrant
+qdrant-client>=1.7.0
+fastapi
+uvicorn
+groq
+python-dotenv

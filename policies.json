@@ -1,0 +1,22 @@
+[
+  {
+    "id": "purchasing_policy",
+    "text": "Customers may purchase Playmobil sets, figures, spare parts and accessories both in-store and online. All prices are final and include applicable taxes unless stated otherwise. We carry the full official Playmobil product range, including themed sets (City Life, Knights, Pirates, Dino Rise, Greek Mythology, etc.), advent calendars, and limited-edition collector items. Bundle deals and promotional discounts cannot be combined with other offers unless explicitly stated. Bulk orders of 10 or more units for schools, kindergartens or events are available with a special discount — customers should contact the store directly for a custom quote. Gift wrapping is available for an additional fee and can be requested at checkout. Price matching is available for identical items sold by authorized retailers; the customer must provide proof of the lower price at time of purchase."
+  },
+  {
+    "id": "return_policy",
+    "text": "Unopened Playmobil sets may be returned within 30 days of purchase with a valid receipt for a full refund. Opened sets may be exchanged within 14 days only if a piece is proven to be missing from the factory (manufacturing defect) or the box was damaged upon delivery — in such cases the customer is entitled to missing pieces or a full exchange of the same set. Items purchased during sales or with discount codes are eligible for store credit only, no cash refunds. Advent calendars and limited-edition sets are non-refundable once opened. Gift cards and digital vouchers are non-refundable under any circumstances. To process a return or exchange, the customer must provide the original receipt or order confirmation number, original packaging (preferred but not always mandatory), and a description of the issue. If a customer reports a missing piece, they can also use the official Playmobil spare parts service at playmobil.com, and the store can assist with sourcing missing pieces where possible."
+  },
+  {
+    "id": "shipping_policy",
+    "text": "Standard shipping takes 3 to 5 business days. Express shipping of 1 to 2 business days is available at an additional charge. Free standard shipping is available on orders above the store minimum threshold. Large or heavy orders such as multiple large sets may incur additional shipping fees, which will be communicated clearly at checkout. Orders are carefully packed to prevent damage to boxes, which is especially important for collector items. Once an order is shipped, customers receive a tracking number via email or SMS. If a package arrives damaged, the customer must photograph the damage and contact the store within 48 hours of delivery."
+  },
+  {
+    "id": "payment_policy",
+    "text": "Accepted payment methods are credit and debit cards, PayPal, bank transfer, cash (in-store only), and store gift cards. All online transactions are secured and encrypted. Installment payment plans may be available for large orders — customers should contact the store directly for details. Gift cards can be purchased in-store or online and are valid for 12 months from the date of purchase. Prices are listed in the local currency. For international customers, final charges depend on the customer's bank exchange rate."
+  },
+  {
+    "id": "safety_policy",
+    "text": "All Playmobil products carry official age recommendations printed on their packaging. Sets marked 3+ are suitable for toddlers, but parental supervision during play is always recommended. Sets marked 5+, 6+, or higher contain small parts and are not suitable for children under 3 years old due to choking hazards. When recommending products for very young children, the assistant must proactively mention the age recommendation and the choking hazard warning. Always ask for the child's age before recommending a set as a gift."
+  }
+]
