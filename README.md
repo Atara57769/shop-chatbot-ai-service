@@ -4,7 +4,7 @@ A lightweight, high-performance modular RAG (Retrieval-Augmented Generation) cha
 
 ## Project Structure
 
-- `chat_service.py`: FastAPI server containing the `/chat` endpoint with integrated remote Qdrant similarity search and Groq-powered completions.
+- `main.py`: FastAPI server containing the `/chat` endpoint with integrated remote Qdrant similarity search and Groq-powered completions.
 - `ingest.py`: Standalone script to initialize your remote Qdrant collection and ingest products and policies data.
 - `products.json` & `policies.json`: Source knowledge files.
 - `requirements.txt`: Lightweight project dependencies.
@@ -35,6 +35,6 @@ python ingest.py
 ### 3. Run the Chat Service API
 Start the FastAPI server:
 ```bash
-uvicorn chat_service:app --reload
+uvicorn main:app --reload
 ```
 The server will start listening at `http://127.0.0.1:8000`. You can access the API endpoint `/chat` via HTTP POST.
