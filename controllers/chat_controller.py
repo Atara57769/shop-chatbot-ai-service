@@ -15,8 +15,7 @@ async def chat(req: ChatRequest):
         history_list = [{"role": m.role, "content": m.content} for m in req.history]
         reply = chat_service_impl.process_chat_message(
             message=req.message,
-            history=history_list,
-            products=req.products
+            history=history_list
         )
         return {'reply': reply}
     except Exception as e:

@@ -33,7 +33,7 @@ User: do you have any outdoor adventure sets?
 Assistant: Yes! Our most popular outdoor set right now is the Camping Adventure Carry Case at $11.24 - it features 2 camper figures, a canoe, and a campfire, and everything stores perfectly inside the case when playtime is over. Are you looking for a set that's easy to travel with, or something larger for a backyard play area?
 """
 
-    def process_chat_message(self, message: str, history: list, products: list) -> str:
+    def process_chat_message(self, message: str, history: list) -> str:
         """Processes a chat request by retrieving Qdrant context and calling the Groq LLM model."""
         # 1. Retrieve context using similarity search on Qdrant
         context = self.qdrant_repo.similarity_search(message, k=3)

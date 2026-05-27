@@ -7,7 +7,6 @@ class Message(BaseModel):
 class ChatRequest(BaseModel):
     message: str
     history: list[Message] = []
-    products: list = []
 
 class ProductItem(BaseModel):
     id: str
